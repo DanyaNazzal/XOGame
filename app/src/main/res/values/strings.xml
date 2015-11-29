@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">XOGame</string>
+    <string name="player1_toast">Player1 Win!</string>
+    <string name="player2_toast">Player2 Win!</string>
+</resources>
